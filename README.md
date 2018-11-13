@@ -9,6 +9,3 @@ This homework focusses on the derivation of five mathematical proofs around the 
 
 ## Homework 3
 This homework focusses on the Python implementation of [full batch mode gradient descent](https://en.wikipedia.org/wiki/Gradient_descent) and of [locally reweighted least squares](https://en.wikipedia.org/wiki/Iteratively_reweighted_least_squares).
-
-## Homework 4
-This homework focusses on the derivation of mathematical proofs around the topics of the infamous [AlexNet paper](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) and on [Gaussian Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier#Gaussian_naive_Bayes).
